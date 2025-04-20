@@ -1,0 +1,20 @@
+
+<svg width="32" height="32" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="25" cy="25" r="23" fill="white" stroke="#e9a296" stroke-width="2" />
+  <path
+    d="M15 25C15 25 19 15 25 15C31 15 35 25 35 25C35 25 31 35 25 35C19 35 15 25 15 25Z"
+    stroke="#e9a296"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="25" cy="25" r="3" fill="#e9a296" />
+  <path
+    d="M14 34L36 16"
+    stroke="#e9a296"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    opacity="0.5"
+  />
+</svg>
