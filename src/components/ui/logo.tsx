@@ -14,7 +14,7 @@ export function Logo({ size = 40, className }: LogoProps) {
         alt="Admin Portal Logo" 
         className="w-full max-h-40 object-contain"
       />
-      <span className="text-xs font-medium text-primary mt-2">Admin Portal</span>
+      <span className="text-sm font-semibold text-primary mt-2">Admin Portal</span>
     </div>
   );
 }
