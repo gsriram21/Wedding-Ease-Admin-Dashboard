@@ -1,4 +1,3 @@
-
 import { cn } from "@/lib/utils";
 import { Link, useLocation } from "react-router-dom";
 import { 
@@ -69,14 +68,8 @@ export function AdminSidebar() {
   return (
     <div className="h-screen w-64 flex flex-col bg-sidebar overflow-y-auto border-r border-sidebar-border">
       {/* Logo/Brand Header */}
-      <div className="flex items-center gap-3 px-4 py-5">
-        <div className="flex-shrink-0 w-10 h-10 flex items-center justify-center">
-          <Logo size={40} />
-        </div>
-        <div className="flex flex-col">
-          <span className="text-lg font-medium text-foreground">Wedding Ease</span>
-          <span className="text-xs font-medium text-primary">Admin Portal</span>
-        </div>
+      <div className="flex items-center justify-center px-4 py-5">
+        <Logo size={120} />
       </div>
       
       {/* Navigation */}
